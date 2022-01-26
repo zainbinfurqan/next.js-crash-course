@@ -5,7 +5,7 @@ function Login(props) {
     return (
         <CommonLayout>
         <div className="p-2">
-            <h2>Login</h2>
+            <h2 className="font-Inter">Login</h2>
         </div>
         </CommonLayout>
     );
