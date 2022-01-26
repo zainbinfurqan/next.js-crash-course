@@ -4,7 +4,7 @@ import CommonLayout from '../../layout/common';
 function Login(props) {
     return (
         <CommonLayout>
-        <div>
+        <div className="p-2">
             <h2>Login</h2>
         </div>
         </CommonLayout>
